@@ -9,3 +9,5 @@
 #### Combine add and modified command
 
 ## trying to add other file as well
+
+## Now all files had been added to the project. Hurray!!
